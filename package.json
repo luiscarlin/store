@@ -1,9 +1,9 @@
 {
-  "name": "gatsby-starter-default",
+  "name": "store",
   "private": true,
-  "description": "A simple starter to get up and developing quickly with Gatsby",
+  "description": "a store example",
   "version": "0.1.0",
-  "author": "Kyle Mathews <mathews.kyle@gmail.com>",
+  "author": "Luis Carlin <luiscarlin@gmail.com>",
   "dependencies": {
     "gatsby": "^2.13.51",
     "gatsby-image": "^2.2.8",
@@ -21,9 +21,6 @@
   "devDependencies": {
     "prettier": "^1.18.2"
   },
-  "keywords": [
-    "gatsby"
-  ],
   "license": "MIT",
   "scripts": {
     "build": "gatsby build",
@@ -35,9 +32,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/gatsbyjs/gatsby-starter-default"
+    "url": "https://github.com/luiscarlin/store"
   },
   "bugs": {
-    "url": "https://github.com/gatsbyjs/gatsby/issues"
+    "url": "https://github.com/luiscarlin/store/issues"
   }
 }
